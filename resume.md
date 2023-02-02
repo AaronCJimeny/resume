@@ -2,7 +2,7 @@
 **email:** acjimenez@mines.edu
 **Address:** Lakewood, CO
 [LinkedIn](www.linkedin.com/in/aaron-jimenez-693425235)
-![photo](/c/Users/aaron/resume/Aaron_Photo.jpg)
+![photo]([/c/Users/aaron/resume/Aaron_Photo.jpg](https://github.com/AaronCJimeny/resume/blob/main/Aaron_Photo.jpg))
 ### Education
 - BS Geophysical Engineering, Colorado School of Mines, 2021-Present
 	- Minor Geological Engineering
